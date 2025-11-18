@@ -1,0 +1,10 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Env files (keep your API keys out of git)
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
